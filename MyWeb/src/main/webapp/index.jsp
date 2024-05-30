@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-Welcome to my website
+Welcome to my websitie
 </body>
 </html>

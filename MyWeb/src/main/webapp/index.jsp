@@ -7,6 +7,10 @@
 <title>Insert title her</title>
 </head>
 <body>
+<<<<<<< Updated upstream
 Welcome to my pages
+=======
+Welcome to my page Nidhi!
+>>>>>>> Stashed changes
 </body>
 </html>

@@ -7,6 +7,6 @@
 <title>Insert title her</title>
 </head>
 <body>
-Welcome!!!!!!
+Welcome home buddy!
 </body>
 </html>
